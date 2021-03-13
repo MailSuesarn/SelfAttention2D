@@ -1,3 +1,7 @@
+
+"""
+Author: Suesarn Wilainuch
+"""
 import tensorflow as tf
 
 
